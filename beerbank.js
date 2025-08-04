@@ -2,6 +2,7 @@
 var lastseen = 1; // last seen beer
 var increment = 12; // ask for 12 more beers
 var beername = '';
+var my_password = "mysupersecurepassword";
 
 // handler for data rendering
 function reqHandler() {
